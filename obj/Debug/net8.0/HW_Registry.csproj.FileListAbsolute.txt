@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.AssemblyInfo.cs
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\bin\Debug\net8.0\HW_Registry.exe
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\bin\Debug\net8.0\HW_Registry.deps.json
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\bin\Debug\net8.0\HW_Registry.runtimeconfig.json
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\bin\Debug\net8.0\HW_Registry.dll
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\bin\Debug\net8.0\HW_Registry.pdb
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.dll
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\refint\HW_Registry.dll
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.pdb
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\HW_Registry.genruntimeconfig.cache
+C:\Users\Artem\source\repos\HW_Registry\HW_Registry\obj\Debug\net8.0\ref\HW_Registry.dll
